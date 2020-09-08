@@ -9,7 +9,7 @@ app = Flask(__name__)
 ### The variables to display in the interface
 
 messageWelcome = "Future Python Developer"
-objective = "The objective of this project is to create an interface for a Python Web application."
+objective = "The objective of this project is to create an interface for a Python web application."
 
 
 ### The variables to display in the interface
