@@ -27,5 +27,4 @@ render_template("index.html", text = messageWelcome, message = objective)
 
 The value in the double braces will be converted to HTML by Flask. You can change its style by pointing to the tag in which it is located.
 
-Here there are 2 variables, but you can put as many variables as you want in the render_template parameters, and use them in the template (here index.html). You can 
-name them whatever you want, as long as they respect Python naming conventions.
+Here there are 2 variables, but you can put as many variables as you want in the render_template parameters, and use them in the template (here index.html). You can name them whatever you want, as long as they respect Python naming conventions.
